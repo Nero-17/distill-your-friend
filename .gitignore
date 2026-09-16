@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+.venv/
+.env*
+data/
+private/
+work/
+outputs/
+memory/
+profiles/
+evaluation/
+*.json
+*.jsonl
+*.zip
+*.log

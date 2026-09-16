@@ -1,0 +1,4 @@
+interface:
+  display_name: "蒸馏你的朋友 · Distill Your Friend"
+  short_description: "Learn reply logic and style with memory and independent blind evaluation."
+  default_prompt: "Use $distill-your-friend to learn reply logic and style from my local chat export, keeping all data and learned profiles outside the repository."
